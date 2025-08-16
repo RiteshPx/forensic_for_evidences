@@ -1,0 +1,15 @@
+venv310
+.env
+test.ipynb
+models/final_yet_85.h5
+models/
+data/
+/models/final_yet_85.h5
+/data/
+/.env
+venv310/
+.env
+models/
+data/
+*.h5
+*.pkl
