@@ -1,7 +1,8 @@
 from flask import Blueprint, request, jsonify
 import os
 
-from tensorflow.keras.models import load_model
+# from tensorflow.keras.models import load_model
+from keras.models import load_model
 import numpy as np
 from PIL import Image, ImageChops, ImageEnhance
 import os

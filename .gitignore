@@ -7,9 +7,10 @@ data/
 /models/final_yet_85.h5
 /data/
 /.env
-venv310/
+venv/
 .env
 models/
 data/
 *.h5
 *.pkl
+venv
