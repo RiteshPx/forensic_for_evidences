@@ -1,8 +1,5 @@
 from flask import Blueprint, request, jsonify
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "-1"  # disable GPU
-os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"  # reduce RAM usage
-
 
 from tensorflow.keras.models import load_model
 import numpy as np
