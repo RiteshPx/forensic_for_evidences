@@ -1,1 +1,1 @@
-python-3.11.9
+pypython-3.10.12
