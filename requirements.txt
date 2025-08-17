@@ -53,7 +53,7 @@ gunicorn
 keras-core  # Required for Keras 3 with some backends
 # tensorflow-estimator==2.13.0
 # tensorboard==2.13.0
-tensorflow-io-gcs-filesystem
+# tensorflow-io-gcs-filesystem
 
 torch==2.8.0
 torchvision==0.23.0
